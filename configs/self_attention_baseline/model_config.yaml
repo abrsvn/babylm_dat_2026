@@ -1,0 +1,13 @@
+dropout: 0.1
+hidden_dim: 768
+max_rel_pos: null
+max_seq_len: 513
+n_heads: 12
+n_layers: 12
+norm_type: layernorm
+pad_token_id: 3
+pe_type: rope
+sequence_boundary_policy: eos_document
+tie_lm_head: true
+use_bias_out: false
+vocab_size: 16384

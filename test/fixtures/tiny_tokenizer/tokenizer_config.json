@@ -1,0 +1,10 @@
+{
+    "tokenizer_class": "PreTrainedTokenizerFast",
+    "bos_token": "<s>",
+    "eos_token": "</s>",
+    "unk_token": "<unk>",
+    "sep_token": "</s>",
+    "pad_token": "<pad>",
+    "mask_token": "<mask>",
+    "cls_token": "<s>"
+}
