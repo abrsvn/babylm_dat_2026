@@ -10,7 +10,7 @@ loss support (see paper for more details), Hugging Face export wrappers,
 example configurations for the reported model families, the analysis pipeline
 behind the paper's tables and statistical models, and a pytest suite.
 
-**Paper PDF**: [Relational Attention for Data-Efficient Language Modeling](./relational_babylm_2026_paper.pdf)
+**Paper PDF**: [Relational Attention for Data-Efficient Language Modeling](./relational_babylm_2026_paper.pdf) (the official proceedings paper is available [here](https://aclanthology.org/2026.babylm-main.21/))
 
 **Slides for a 1h talk** (CSE Colloq, UCSC, Oct. 23, 2026): [Relational Attention for Data-Efficient Language Modeling: Relational BabyLM](./relational_babylm_slides.pdf)
 
